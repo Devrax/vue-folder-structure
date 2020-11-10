@@ -1,6 +1,6 @@
 
 
-## Folder structure took from [here](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb)
+## A Frankstein Folder structure with tips took from [here](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb) and [here](https://vueschool.io/articles/vuejs-tutorials/structuring-vue-components/).
 
 **For more details, go there**
 
